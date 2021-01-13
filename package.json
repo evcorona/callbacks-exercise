@@ -1,0 +1,17 @@
+{
+  "name": "callbacks-exercise",
+  "version": "1.0.0",
+  "description": "Exercice of callbacks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kodemia",
+    "decima",
+    "callbacks",
+    "exercise"
+  ],
+  "author": "@veroxcrown",
+  "license": "ISC"
+}
